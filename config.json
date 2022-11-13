@@ -1,28 +1,28 @@
 {
     "bot": {
         "token": "BOT TOKENİNİZİ MAİN KISMINA GİRİNİZ 49. SATIRDA",
-        "owner": "KESİNLİKLE KENDİ İDNİ GİR YOKSA ÇALIŞMAZ",
+        "owner": "785186934062055455",
         "prefix": ".",
-        "BotStatus": "YOUTUBE BORANGKDN",
-        "BotFooter": "YOUTUBE BORANGKDN",
+        "BotStatus": "MuhammetAli 💖 Rabia",
+        "BotFooter": "MuhammetAli 💖 Rabia",
         "cooldown": 8
     },
     "penals": {
         "ban": {
-            "staff": "BAN YETKİLİSİ ID",
-            "log": "BAN LOG ID",
+            "staff": "814213031516438529",
+            "log": "1041378919955320864",
             "limit": 3
         },
         "jail": {
-            "staff": "JAİL YETKİLİSİ ID",
-            "roles": "CEZALI ROLÜ ID",
-            "log": "CEZA LOG ID",
+            "staff": "814213031516438529",
+            "roles": "1026457643537141890",
+            "log": "1041378919955320864",
             "limit": 5
         },
         "mute": {
-            "staff": "MUTE YETKİLİSİ ID",
-            "roles": "SUSTURURULMUS ROLÜ ID",
-            "log": "MUTE LOG ID",
+            "staff": "814213031516438529",
+            "roles": "950632478438195232",
+            "log": "1041378919955320864",
             "limit": 5
         },
         "warn": {
@@ -40,50 +40,50 @@
         }
     },
     "logs": {
-        "taglog": "TAG LOG ID",
-        "rollog": "ROL LOG ID",
-        "messagelog": "MESAJ LOG ID",
-        "seslog": "SES LOG ID"
+        "taglog": "1026479547987787857",
+        "rollog": "1041378919955320864",
+        "messagelog": "1041378919955320864",
+        "seslog": "1041378919955320864"
     },
     "roles": {
-        "vip": "VİP ROL ID",
+        "vip": "906225045431537685",
         "sponsor": "SPONSOR ROL ID",
         "müzisyen": "MÜZİSYEN ROL ID",
-        "team": "TAGLI ROL ID"
+        "team": "1026477605546897449"
     },
     "channels": {
-        "chat": "CHAT KANALI ID",
-        "voicechannel": "BOT SES KANALI ID",
-        "welcomechannel": "HOŞ GELDİN KANALI ID",
-        "rules": "KURALLAR KANALI ID"
+        "chat": "908328967986102323",
+        "voicechannel": "1041378185830465567",
+        "welcomechannel": "908332034550808646",
+        "rules": "841053968734224445"
     },
     "registration": {
-        "unregistered": "KAYITSIZ ROL ID",
-        "man": ["ERKEK ROL ID", "2. ERKEK ROL ID"],
-        "woman": ["KADIN ROL ID", "2. ERKEK ROL ID"],
+        "unregistered": "908780664202080276",
+        "man": ["908331012025630741", "2. ERKEK ROL ID"],
+        "woman": ["908331164991913994", "2. ERKEK ROL ID"],
         "yetkilialim": "YETKİLİ ALIM ROL ID",
-        "staff": "REGİSTER ROL ID",
+        "staff": "952275770254954596",
         "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
-        "GuilDTag": "SUNUCU TAGINIZ",
-        "TagSymbol": "ISIM YAŞIN ÖNÜNE KOYULACAK SEMBOL",
-        "autonickname": "$ İsim | Yaş",
+        "GuilDTag": "♛",
+        "TagSymbol": "•",
+        "autonickname": "♛ İsim | Yaş",
         "symbol": "|",
         "suspecios": "ŞÜPHELİ ROL ID",
         "susoeciosnickname": "Şüpheli Hesap",
-        "oneman": "1. ERKEK ROLU",
-        "onewoman": "2. ERKEK ROLU",
+        "oneman": "908331012025630741",
+        "onewoman": "908331164991913994",
         "minage": 13, 
         "purchase": false
     },
     "Guild": {
-        "GuildID": "SUNUCU ID",
-        "GuilDName": "BoranGkdn Video",
-        "GuildOwnerRole": ["SUNUCU OWNER ROL ID"]
+        "GuildID": "767769662254481408",
+        "GuilDName": "MuhammetAli",
+        "GuildOwnerRole": ["826407334783746070"]
     },
     "emojis": {
-        "tada": "TADA EMOJİSİ",
-        "yes": "ONAY EMOJİSİ",
-        "no": "RED EMOJİSİ"
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❌"
 
     }
 } 
